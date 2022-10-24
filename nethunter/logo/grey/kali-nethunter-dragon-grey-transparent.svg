@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg32"
+   viewBox="0 0 174.78165 149.58263"
+   sodipodi:docname="kali-nethunter-dragon-grey-transparent.svg"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   inkscape:export-filename="kali-nethunter-dragon-grey-transparent.jpg"
+   inkscape:export-xdpi="274.63"
+   inkscape:export-ydpi="274.63"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview667"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5777233"
+     inkscape:cx="-152.75175"
+     inkscape:cy="87.784721"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g40" />
+  <defs
+     id="defs36">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48">
+      <path
+         d="M 0,120 H 212.4 V 0 H 0 Z"
+         id="path46" />
+    </clipPath>
+  </defs>
+  <g
+     id="g40"
+     transform="matrix(1.5089237,0,0,-1.5089237,-70.361868,187.32239)"
+     style="display:inline;stroke-width:0.883632"
+     inkscape:label="nethunter">
+    <g
+       id="g44"
+       clip-path="url(#clipPath48)"
+       style="display:inline;stroke-width:0.883632"
+       inkscape:label="dragon">
+      <path
+         d="m 0,0 c 30.921,-11.059 51.194,-33.074 51.194,-33.074 l 3.071,0.409 C 41.979,-20.172 22.013,-6.656 0,0"
+         style="display:inline;fill:#b5b8b9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.883632"
+         id="path58"
+         inkscape:label="ears"
+         transform="translate(79.0942,115.1504)" />
+      <path
+         d="M 0,0 C 0,0 1.573,-3.213 2.885,-4.328 1.901,-4.262 0.95,-3.541 0.099,-2.36 -0.754,-1.18 0,0 0,0 m -17.698,-25.908 c -4.064,12.186 -13.416,16.095 -17.249,18.7 -3.833,2.606 -9.352,12.953 -0.843,16.861 8.509,3.909 23.887,-7.58 23.887,-7.58 0,0 -0.639,-5.455 1.965,-7.569 2.605,-2.112 8.748,-4.127 11.696,-6.044 2.948,-1.917 9.632,-7.469 10.86,-9.681 2.555,2.85 6.879,5.554 8.109,6.291 -4.964,0.344 -10.584,4.043 -12.028,5.184 -1.443,1.142 -2.898,2.731 -2.878,3.023 0.022,0.292 0.689,0.604 0.939,0.604 0.25,0 0.187,0.959 -0.105,1.334 -0.292,0.375 -1.521,1.813 -2.271,2.709 -0.75,0.896 -5.023,8.378 -5.21,8.774 -0.188,0.396 -0.647,0.416 -1.459,0.354 -0.813,-0.062 -4.627,-0.625 -4.627,-0.625 0,0 -2.204,2.312 -2.326,2.648 -3.281,3.243 -6.819,6.938 -10.74,9.672 -2.044,1.77 -5.217,2.38 -5.217,2.38 0,0 -2.38,5.736 -7.048,6.987 2.96,-2.868 2.99,-5.98 2.99,-5.98 0,0 -2.38,0.671 -6.102,0.58 -1.099,1.83 -4.455,3.02 -7.72,2.441 2.929,-0.946 3.997,-3.326 3.997,-3.326 0,0 -3.661,-0.671 -5.156,-1.892 -0.915,1.16 -5.584,0.793 -7.475,-1.099 2.013,0.458 4.607,-0.182 5.034,-0.701 -3.051,-1.617 -3.753,-4.577 -3.753,-4.577 0,0 -4.607,-0.213 -5.949,-3.692 2.044,1.404 4.362,0.885 4.362,0.885 0,0 -1.922,-3.021 -1.708,-6.133 -1.495,-0.763 -3.051,-3.448 -2.96,-5.004 0.946,2.014 2.838,2.441 2.838,2.441 0,0 -0.758,-7.514 2.779,-12.476 3.537,-4.962 8.816,-12.511 9.238,-15.256 -5.701,0.105 -36.048,-5.291 -47.394,-13.492 12.649,5.135 28.594,10.73 58.874,10.73 30.281,0 56.958,-10.883 56.958,-10.883 0,0 -21.387,11.65 -44.308,13.412"
+         style="display:inline;fill:#b5b8b9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.883632"
+         id="path62"
+         inkscape:label="body"
+         transform="translate(135.8525,73.3237)" />
+      <path
+         d="m 0,0 c -2.206,1.218 -4.811,3.148 -6.732,8.471 -2.032,5.629 1.439,11.579 9.982,10.676 7.731,-0.816 16.482,-7.252 17.932,-7.948 -2.379,2.262 -7.892,7.717 -13,10.734 -5.106,3.017 -14.218,2.785 -18.745,-1.567 -4.526,-4.351 -3.25,-15.898 4.005,-22.513 7.254,-6.614 5.165,-14.216 5.165,-14.216 0,0 10.04,0.174 16.54,-0.754 C 11.665,-6.151 2.205,-1.218 0,0"
+         style="display:inline;fill:#e7e7e4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.883632"
+         id="path66"
+         inkscape:label="tummy"
+         transform="translate(102.689,64.6567)" />
+    </g>
+  </g>
+</svg>
